@@ -62,6 +62,6 @@ todo
 [an-introduction-to-web-development.md](computer-science/computer-science/an-introduction-to-web-development.md)
 {% endcontent-ref %}
 
-{% content-ref url="computer-science/computer-science/intro-to-programming-scratch.md" %}
-[intro-to-programming-scratch.md](computer-science/computer-science/intro-to-programming-scratch.md)
+{% content-ref url="computer-science/computer-science/introduction-to-programming-scratch/" %}
+[introduction-to-programming-scratch](computer-science/computer-science/introduction-to-programming-scratch/)
 {% endcontent-ref %}

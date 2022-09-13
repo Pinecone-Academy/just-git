@@ -6,7 +6,16 @@
   * [How Computer Works](computer-science/computer-science/how-computer-works.md)
   * [Evolution of Computer Science](computer-science/computer-science/evolution-of-computer-science.md)
   * [An introduction to Web development](computer-science/computer-science/an-introduction-to-web-development.md)
-  * [Intro to Programming (Scratch)](computer-science/computer-science/intro-to-programming-scratch.md)
+  * [Introduction to Programming (Scratch)](computer-science/computer-science/introduction-to-programming-scratch/README.md)
+    * [Vocabulary](computer-science/computer-science/introduction-to-programming-scratch/vocabulary.md)
+    * [Introduction to Scratch](computer-science/computer-science/introduction-to-programming-scratch/introduction-to-scratch.md)
+    * [Functions](computer-science/computer-science/introduction-to-programming-scratch/functions.md)
+    * [Events](computer-science/computer-science/introduction-to-programming-scratch/events.md)
+    * [Values](computer-science/computer-science/introduction-to-programming-scratch/values.md)
+    * [Conditions](computer-science/computer-science/introduction-to-programming-scratch/conditions.md)
+    * [Loops](computer-science/computer-science/introduction-to-programming-scratch/loops.md)
+    * [Variables](computer-science/computer-science/introduction-to-programming-scratch/variables.md)
+    * [Final project - Crystal catch](computer-science/computer-science/introduction-to-programming-scratch/final-project-crystal-catch.md)
 
 ## html-css
 
