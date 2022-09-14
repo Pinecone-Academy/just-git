@@ -18,7 +18,7 @@ This time what we're going to take a look at is the ability of Scratch programs 
 Source code
 {% endfile %}
 
-**Challenge**
+### **Challenge**
 
 **Fish follows cursor**
 
