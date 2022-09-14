@@ -14,9 +14,7 @@
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```
-Итернет, Веб хөгжүүлэлтийн үндсэн ойлголт авах.
-Front-end, back-end-ийн ялгаа.
-Цаашид бид юу сурах юэ? /Fullstack/
+todo
 ```
 {% endcode %}
 

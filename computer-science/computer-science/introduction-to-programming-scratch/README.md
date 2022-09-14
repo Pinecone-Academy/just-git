@@ -23,7 +23,7 @@ description: >-
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```
-todo
+Scratch is a block-based programming language which helps to simplify coding for beginners. It uses a drag and drop method which lets children perform actions quickly and easily. This approach is what makes Scratch not hard to learn, and easy to get started with.
 ```
 {% endcode %}
 
