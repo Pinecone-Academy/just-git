@@ -4,6 +4,6 @@ And last time we took a look at the fundamentals of programming putting together
 
 We were able to take characters, or sprites, on the stage, and have them move around, or draw pictures, and play sound, and more. And so today, let's take those concepts of programming and build upon them a little bit more.
 
-### Traning video
+### Training video
 
 {% embed url="https://youtu.be/2-FryVNdX-s" %}

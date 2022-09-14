@@ -9,7 +9,7 @@ We'll take a look at concepts like functions and loops and conditions and variab
 
 And even though the Scratch programming language looks a little bit different, it uses blocks instead of the more traditional text-based programming that you might see in other programming languages later, really Scratch is based on the same fundamental ideas. And it's going to use the same principles of computational thinking.
 
-### Traning video
+### Training video
 
 {% embed url="https://youtu.be/MbE5mnM9FTA" %}
 

@@ -12,6 +12,6 @@ And today, we'll explore variables in Scratch, and how it is that we can use the
 
 Some container inside of our Scratch program that's going to store some information. Information that we might be able to use later inside of our program as well.
 
-### Traning video
+### Training video
 
 {% embed url="https://youtu.be/KbSCBB3GlUI" %}

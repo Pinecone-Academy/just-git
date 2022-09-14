@@ -6,6 +6,6 @@ We're running through the code, top to bottom, one time. And if we want to see t
 
 This time what we're going to take a look at is the ability of Scratch programs to loop, to repeat some blocks multiple times, as computers will do quite often.
 
-### Traning video
+### Training video
 
 {% embed url="https://youtu.be/9SwXizWOlus" %}
