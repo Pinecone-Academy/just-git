@@ -14,7 +14,10 @@
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```
-todo
+Итернет хэрхэн ажилдаг.
+Веб хөгжүүлэлтийн үндсэн ойлголт авах.
+Front-end, back-end-ийн ялгаа.
+Цаашид бид юу сурах юэ? /Fullstack/
 ```
 {% endcode %}
 
