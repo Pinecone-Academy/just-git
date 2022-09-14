@@ -2,9 +2,7 @@
 
 We introduced the world of Scratch. introducing the stage and the sprites that can live on that stage. And saw how we could change the way the sprites looked by giving them costumes, and giving them some sounds, and also add some backdrops to our stage to make it look a little bit more interesting.
 
-
-
-The following informations are directly from [Scratch Wiki](https://petlja.org/biblioteka/r/lekcije/BlockBasedProgScratch/blocks).
+The following informations are directly from [petlja](https://petlja.org/biblioteka/r/lekcije/BlockBasedProgScratch/blocks).
 
 ### Blocks (functions)
 

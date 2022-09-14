@@ -2,8 +2,7 @@
 
 We're going to be exploring Scratch, which is a visual block-based programming language developed by the team over at MIT's Media Lab.&#x20;
 
-Using Scratch, by putting together little Scratch puzzle pieces, that we'll see shortly, you'll be able to build visual stories and animations and games and other programs that you'll be able to share with others. And along the way, as we're exploring Scratch, you'll be introduced to the fundamentals of programming.\
-
+Using Scratch, by putting together little Scratch puzzle pieces, that we'll see shortly, you'll be able to build visual stories and animations and games and other programs that you'll be able to share with others. And along the way, as we're exploring Scratch, you'll be introduced to the fundamentals of programming.
 
 We'll take a look at concepts like functions and loops and conditions and variables and other types of ideas that you'll see in programming.
 
