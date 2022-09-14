@@ -23,7 +23,7 @@ You can add new **Sprites**, delete a **Sprite** and see all of the **Sprites** 
 
 The **Stage** is the area where you will see your code come to life. Think of this area just like a Broadway stage that actors perform on. This is where the **Sprites** will follow the coded commands that you have put together in the **Code Area**. It is the background of your project and you can personalize it by adding different **Backdrops** from the **Backdrops** Library.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 You will tell the **Sprites** exactly what to do by giving them commands that are put together into a program. A command is an instruction to do a particular task, and those are shown in the form of Code Blocks in the **Blocks Palette**, which is located under the Code tab at the top left of the screen. You can think of this area as your toolbox. All of the blocks are colour-coded and can be found in the categories on the very left side of the Blocks Palette. As you can see in the following picture, all of the **Motion** code blocks are dark blue and can be accessed by clicking on the blue Motion category.&#x20;
 
@@ -39,7 +39,7 @@ To start your program or to test your code click the **Green Flag** located abov
 
 You can make your **Stage** full-screen by clicking the button with the four arrows in the top right corner above the **Stage**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Finally, once you’ve finished your creation you can save it by clicking on **File** > **Save To Your Computer**.&#x20;
 
