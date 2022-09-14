@@ -15,3 +15,35 @@ Some container inside of our Scratch program that's going to store some informat
 ### Training video
 
 {% embed url="https://youtu.be/KbSCBB3GlUI" %}
+
+### Example
+
+**Counting cat**
+
+* Increase the number by 1 when you click on the cat
+* Reset the counter by pressing the reset button
+
+{% file src="../../../.gitbook/assets/Counting Cat.sb3" %}
+Source code[\
+](http://localhost:3000/work-files/computer-science/scratch/variables/Counting%20cat.sb3)
+{% endfile %}
+
+### Challenge
+
+**Chase the Star**
+
+If the score reaches 10, the game ends with a changing backdrop that you win!
+
+{% file src="../../../.gitbook/assets/Chase the Star.sb3" %}
+Source code
+{% endfile %}
+
+**Spiral**
+
+Draw a spiral when the program starts
+
+Hint: Pen tool
+
+{% file src="../../../.gitbook/assets/Spiral.sb3" %}
+Source code
+{% endfile %}
