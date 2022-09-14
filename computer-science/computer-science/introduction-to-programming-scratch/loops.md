@@ -36,5 +36,11 @@ Blocks held inside this block will loop a given amount of times, before allowing
 Source code
 {% endfile %}
 
-Repeat until loop
+**Repeat until loop**
+
+Blocks held inside this block will loop until the specified boolean statement is true, in which case the code beneath the block will execute.
+
+{% file src="../../../.gitbook/assets/Balloon 2.sb3" %}
+Source code
+{% endfile %}
 
