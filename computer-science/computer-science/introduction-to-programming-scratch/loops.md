@@ -9,3 +9,32 @@ This time what we're going to take a look at is the ability of Scratch programs 
 ### Training video
 
 {% embed url="https://youtu.be/9SwXizWOlus" %}
+
+### Example
+
+**Forever loop**
+
+{% file src="../../../.gitbook/assets/Walking Cat.sb3" %}
+Source code
+{% endfile %}
+
+**Challenge**
+
+**Fish follows cursor**
+
+Hint: point towards
+
+{% file src="../../../.gitbook/assets/Swimming Fish.sb3" %}
+Source code
+{% endfile %}
+
+**Repeat loop**
+
+Blocks held inside this block will loop a given amount of times, before allowing the script to continue.
+
+{% file src="../../../.gitbook/assets/Balloon 1.sb3" %}
+Source code
+{% endfile %}
+
+Repeat until loop
+
