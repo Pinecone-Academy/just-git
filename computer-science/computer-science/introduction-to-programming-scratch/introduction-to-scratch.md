@@ -15,7 +15,7 @@ And even though the Scratch programming language looks a little bit different, i
 
 To create a game, interactive story, animation or artwork in Scratch, you must add code to tell a **Sprite** exactly what to do. A **Sprite** is an object that performs actions in a project.  A sprite will follow your commands and the Scratch editor automatically starts with a **Cat Sprite** for all projects.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can add new **Sprites**, delete a **Sprite** and see all of the **Sprites** that you’ve added to your project in the **Sprites Pane**. Any sprites added will appear on the **Stage**.
 
